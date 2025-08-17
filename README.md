@@ -9,14 +9,7 @@ Projet académique de prédiction météorologique basé sur l’intelligence ar
 - [📥 Collecte des données](#-collecte-des-données)
 - [🧹 Prétraitement](#-prétraitement)
 - [🧠 Modélisation LSTM](#-modélisation-lstm)
-- [📊 Visualisation & Résultats](#-visualisation--résultats)
-- [🧪 Prédictions sur de nouvelles données](#-prédictions-sur-de-nouvelles-données)
-- [🗃️ Base de données MongoDB](#️-base-de-données-mongodb)
-- [🛰️ Intégration Satellite (GEE)](#️-intégration-satellite-gee)
-- [🚀 Lancer le projet](#-lancer-le-projet)
-- [📄 Licence](#-licence)
 
----
 
 ## 🔍 Objectif du projet
 
@@ -35,10 +28,6 @@ Prédire les conditions météorologiques quotidiennes à Casablanca (et potenti
 - **Meteostat** pour les données météo historiques
 - **Pandas / NumPy** pour le traitement des données
 - **TensorFlow / Keras** pour le modèle LSTM
-- **Matplotlib** pour les visualisations
-- **MongoDB** pour le stockage structuré
-- **Google Earth Engine (GEE)** pour les images satellites Sentinel-2
-- **Joblib** pour la persistance des scalers
 - **CSV** pour l'import/export de jeux de données
 
 ---
@@ -86,3 +75,4 @@ Prédire les conditions météorologiques quotidiennes à Casablanca (et potenti
   - Sauvegarde les résultats dans `predictions.csv`
 
 ---
+
