@@ -1,0 +1,26 @@
+# Traitement de données
+pandas>=1.5.3
+numpy>=1.23.5
+
+# Visualisation
+matplotlib>=3.7.0
+
+# Deep Learning
+tensorflow>=2.12.0
+keras>=2.12.0
+
+# Scalers et persistance
+scikit-learn>=1.3.0
+joblib>=1.3.2
+
+# Base de données
+pymongo>=4.5.0
+
+# API météo
+meteostat>=1.6.5
+
+# Utilitaires divers
+python-dateutil>=2.8.2
+
+# Si Google Earth Engine est utilisé
+earthengine-api>=0.1.365
