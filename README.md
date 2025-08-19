@@ -1,4 +1,4 @@
-# 🌦️ Weather Prediction with LSTM - Casablanca Project
+# 🌦️ Weather Prediction with LSTM 
 
 Projet académique de prédiction météorologique basé sur l’intelligence artificielle. Ce projet combine la collecte de données météo, le traitement de séries temporelles, des images satellites, l’entraînement d’un modèle LSTM multi-sorties, et la prédiction de plusieurs variables climatiques.
 
@@ -75,4 +75,5 @@ Prédire les conditions météorologiques quotidiennes à Casablanca (et potenti
   - Sauvegarde les résultats dans `predictions.csv`
 
 ---
+
 
